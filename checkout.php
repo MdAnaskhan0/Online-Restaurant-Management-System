@@ -192,7 +192,7 @@ else{
                     <div class="row">
                         <div class="col-xs-12 col-sm-3 payment-options color-gray">
                             <h5>Payment Options</h5>
-                            <h5>anas khan</h5>
+                            
                             <ul>
                                 <li>
                                     <a href="#"> <img src="images/Nexus.png" alt="Paypal"> </a>
